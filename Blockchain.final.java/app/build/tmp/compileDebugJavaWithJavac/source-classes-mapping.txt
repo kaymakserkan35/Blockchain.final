@@ -1,0 +1,158 @@
+com/betelgeuse/blockchain/data/dataListener/CurrencyDTOListListener.java
+ com.betelgeuse.blockchain.data.dataListener.CurrencyDTOListListener
+com/betelgeuse/blockchain/userinterface/information/InformationItemClickListener.java
+ com.betelgeuse.blockchain.userinterface.information.InformationItemClickListener
+com/betelgeuse/blockchain/data/ITickerDB.java
+ com.betelgeuse.blockchain.data.ITickerDB
+com/betelgeuse/blockchain/userinterface/authentication/IAuthentication.java
+ com.betelgeuse.blockchain.userinterface.authentication.IAuthentication
+ com.betelgeuse.blockchain.userinterface.authentication.IAuthentication$AuthListener
+com/betelgeuse/blockchain/core/service/NotificationService.java
+ com.betelgeuse.blockchain.core.service.NotificationService
+com/betelgeuse/blockchain/BuildConfig.java
+ com.betelgeuse.blockchain.BuildConfig
+com/betelgeuse/blockchain/userinterface/model/modelListener/AnalysisModelListListener.java
+ com.betelgeuse.blockchain.userinterface.model.modelListener.AnalysisModelListListener
+com/betelgeuse/blockchain/data/dto/TickerDTO.java
+ com.betelgeuse.blockchain.data.dto.TickerDTO
+com/betelgeuse/blockchain/data/dto/UserOptionDTO.java
+ com.betelgeuse.blockchain.data.dto.UserOptionDTO
+com/betelgeuse/blockchain/userinterface/model/modelListener/UserOptionModelListListener.java
+ com.betelgeuse.blockchain.userinterface.model.modelListener.UserOptionModelListListener
+com/betelgeuse/blockchain/data/dataListener/TickerDTOListListener.java
+ com.betelgeuse.blockchain.data.dataListener.TickerDTOListListener
+com/betelgeuse/blockchain/data/IUserOptionOperations.java
+ com.betelgeuse.blockchain.data.IUserOptionOperations
+com/betelgeuse/blockchain/data/ADatabase.java
+ com.betelgeuse.blockchain.data.ADatabase
+com/betelgeuse/blockchain/userinterface/authentication/FirebaseAuthentication.java
+ com.betelgeuse.blockchain.userinterface.authentication.FirebaseAuthentication
+ com.betelgeuse.blockchain.userinterface.authentication.FirebaseAuthentication$1
+com/betelgeuse/blockchain/userinterface/useroption/UserOptionController.java
+ com.betelgeuse.blockchain.userinterface.useroption.UserOptionController
+ com.betelgeuse.blockchain.userinterface.useroption.UserOptionController$1
+com/betelgeuse/blockchain/userinterface/information/InformationAdapter.java
+ com.betelgeuse.blockchain.userinterface.information.InformationAdapter
+com/betelgeuse/blockchain/data/dataListener/TickerDTOListener.java
+ com.betelgeuse.blockchain.data.dataListener.TickerDTOListener
+com/betelgeuse/blockchain/userinterface/model/modelListener/CurrencyModelListListener.java
+ com.betelgeuse.blockchain.userinterface.model.modelListener.CurrencyModelListListener
+com/betelgeuse/blockchain/core/libs/TableData.java
+ com.betelgeuse.blockchain.core.libs.TableData
+com/betelgeuse/blockchain/userinterface/useroption/UserOptionActivity.java
+ com.betelgeuse.blockchain.userinterface.useroption.UserOptionActivity
+ com.betelgeuse.blockchain.userinterface.useroption.UserOptionActivity$1
+com/betelgeuse/blockchain/userinterface/model/InformationToUserSettingModel.java
+ com.betelgeuse.blockchain.userinterface.model.InformationToUserSettingModel
+com/betelgeuse/blockchain/data/sqLite/UserOptionDB.java
+ com.betelgeuse.blockchain.data.sqLite.UserOptionDB
+com/betelgeuse/blockchain/userinterface/authentication/AuthenticationActivity.java
+ com.betelgeuse.blockchain.userinterface.authentication.AuthenticationActivity
+ com.betelgeuse.blockchain.userinterface.authentication.AuthenticationActivity$1
+com/betelgeuse/blockchain/userinterface/model/UserOptionModel.java
+ com.betelgeuse.blockchain.userinterface.model.UserOptionModel
+com/betelgeuse/blockchain/data/output/AdvancedDataManager.java
+ com.betelgeuse.blockchain.data.output.AdvancedDataManager
+com/betelgeuse/blockchain/userinterface/analysis/SectionsPagerAdapter.java
+ com.betelgeuse.blockchain.userinterface.analysis.SectionsPagerAdapter
+com/betelgeuse/blockchain/core/libs/DateWrapper.java
+ com.betelgeuse.blockchain.core.libs.DateWrapper
+ com.betelgeuse.blockchain.core.libs.DateWrapper$DateFormats
+ com.betelgeuse.blockchain.core.libs.DateWrapper$TimeZones
+com/betelgeuse/blockchain/data/dto/CurrencyDTO.java
+ com.betelgeuse.blockchain.data.dto.CurrencyDTO
+com/betelgeuse/blockchain/userinterface/information/InformationActivity.java
+ com.betelgeuse.blockchain.userinterface.information.InformationActivity
+ com.betelgeuse.blockchain.userinterface.information.InformationActivity$1
+com/betelgeuse/blockchain/core/indicator/AData.java
+ com.betelgeuse.blockchain.core.indicator.AData
+com/betelgeuse/blockchain/data/dataListener/UserOptionDTOListener.java
+ com.betelgeuse.blockchain.data.dataListener.UserOptionDTOListener
+com/betelgeuse/blockchain/data/ITickerOperations.java
+ com.betelgeuse.blockchain.data.ITickerOperations
+com/betelgeuse/blockchain/userinterface/useroption/CurrencySpinnerAdapter.java
+ com.betelgeuse.blockchain.userinterface.useroption.CurrencySpinnerAdapter
+com/betelgeuse/blockchain/core/libs/TableTag.java
+ com.betelgeuse.blockchain.core.libs.TableTag
+com/betelgeuse/blockchain/userinterface/model/CurrencyModel.java
+ com.betelgeuse.blockchain.userinterface.model.CurrencyModel
+com/betelgeuse/blockchain/core/indicator/Sort.java
+ com.betelgeuse.blockchain.core.indicator.Sort
+com/betelgeuse/blockchain/userinterface/analysis/fragment/BollingerbandFragment.java
+ com.betelgeuse.blockchain.userinterface.analysis.fragment.BollingerbandFragment
+com/betelgeuse/blockchain/data/firebase/TickerDB.java
+ com.betelgeuse.blockchain.data.firebase.TickerDB
+com/betelgeuse/blockchain/data/output/DatabaseManager.java
+ com.betelgeuse.blockchain.data.output.DatabaseManager
+com/betelgeuse/blockchain/core/indicator/Period.java
+ com.betelgeuse.blockchain.core.indicator.Period
+com/betelgeuse/blockchain/data/firebase/TickerDBSERVER.java
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$1
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$2
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$3
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$4
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$5
+ com.betelgeuse.blockchain.data.firebase.TickerDBSERVER$6
+com/betelgeuse/blockchain/data/firebase/CurrencyDB.java
+ com.betelgeuse.blockchain.data.firebase.CurrencyDB
+ com.betelgeuse.blockchain.data.firebase.CurrencyDB$1
+com/betelgeuse/blockchain/H.java
+ com.betelgeuse.blockchain.H
+com/betelgeuse/blockchain/userinterface/authentication/AuthenticationController.java
+ com.betelgeuse.blockchain.userinterface.authentication.AuthenticationController
+com/betelgeuse/blockchain/userinterface/model/InformationToAnalysisModel.java
+ com.betelgeuse.blockchain.userinterface.model.InformationToAnalysisModel
+com/betelgeuse/blockchain/data/ICurrencyOperations.java
+ com.betelgeuse.blockchain.data.ICurrencyOperations
+com/betelgeuse/blockchain/userinterface/model/modelListener/InformationModelListListener.java
+ com.betelgeuse.blockchain.userinterface.model.modelListener.InformationModelListListener
+com/betelgeuse/blockchain/data/dataListener/UserOptionDTOListListener.java
+ com.betelgeuse.blockchain.data.dataListener.UserOptionDTOListListener
+com/betelgeuse/blockchain/userinterface/model/TickerModel.java
+ com.betelgeuse.blockchain.userinterface.model.TickerModel
+com/betelgeuse/blockchain/data/firebase/TickerDBCache.java
+ com.betelgeuse.blockchain.data.firebase.TickerDBCache
+ com.betelgeuse.blockchain.data.firebase.TickerDBCache$1
+com/betelgeuse/blockchain/userinterface/information/InformationViewHolder.java
+ com.betelgeuse.blockchain.userinterface.information.InformationViewHolder
+com/betelgeuse/blockchain/core/indicator/Data.java
+ com.betelgeuse.blockchain.core.indicator.Data
+ com.betelgeuse.blockchain.core.indicator.Data$BollingerBandData
+ com.betelgeuse.blockchain.core.indicator.Data$RsiData
+com/betelgeuse/blockchain/core/indicator/Average.java
+ com.betelgeuse.blockchain.core.indicator.Average
+ com.betelgeuse.blockchain.core.indicator.Average$1
+com/betelgeuse/blockchain/core/libs/TableColor.java
+ com.betelgeuse.blockchain.core.libs.TableColor
+com/betelgeuse/blockchain/userinterface/analysis/AnalysisActivity.java
+ com.betelgeuse.blockchain.userinterface.analysis.AnalysisActivity
+com/betelgeuse/blockchain/core/indicator/Signal.java
+ com.betelgeuse.blockchain.core.indicator.Signal
+com/betelgeuse/blockchain/core/indicator/MovingAverageConvergenceDivergence.java
+ com.betelgeuse.blockchain.core.indicator.MovingAverageConvergenceDivergence
+com/betelgeuse/blockchain/core/indicator/BollingerBand.java
+ com.betelgeuse.blockchain.core.indicator.BollingerBand
+com/betelgeuse/blockchain/core/indicator/RelativeStrengthIndex.java
+ com.betelgeuse.blockchain.core.indicator.RelativeStrengthIndex
+com/betelgeuse/blockchain/userinterface/model/InformationModel.java
+ com.betelgeuse.blockchain.userinterface.model.InformationModel
+com/betelgeuse/blockchain/userinterface/information/InformationController.java
+ com.betelgeuse.blockchain.userinterface.information.InformationController
+com/betelgeuse/blockchain/core/libs/TableResponsiveLayout.java
+ com.betelgeuse.blockchain.core.libs.TableResponsiveLayout
+ com.betelgeuse.blockchain.core.libs.TableResponsiveLayout$MyHorizontalScrollView
+ com.betelgeuse.blockchain.core.libs.TableResponsiveLayout$MyScrollView
+com/betelgeuse/blockchain/core/indicator/SimpleMovingAverage.java
+ com.betelgeuse.blockchain.core.indicator.SimpleMovingAverage
+com/betelgeuse/blockchain/userinterface/model/AnalysisModel.java
+ com.betelgeuse.blockchain.userinterface.model.AnalysisModel
+com/betelgeuse/blockchain/Testing.java
+ com.betelgeuse.blockchain.Testing
+com/betelgeuse/blockchain/userinterface/analysis/fragment/TableFragment.java
+ com.betelgeuse.blockchain.userinterface.analysis.fragment.TableFragment
+com/betelgeuse/blockchain/userinterface/analysis/AnalysisController.java
+ com.betelgeuse.blockchain.userinterface.analysis.AnalysisController
+com/betelgeuse/blockchain/core/indicator/Indicator.java
+ com.betelgeuse.blockchain.core.indicator.Indicator
+ com.betelgeuse.blockchain.core.indicator.Indicator$1
