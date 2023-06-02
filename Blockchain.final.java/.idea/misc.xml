@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final.final/app/src/main/res/layout/activity_analysis.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final.final/app/src/main/res/layout/fragment_table.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final.final/app/src/main/res/layout/information.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/drawable/option_border.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/layout/activity_authentication.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/layout/activity_information.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/layout/activity_user_option.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/layout/currency_spinner_item.xml" value="0.536" />
+        <entry key="..\:/Users/Asus/Desktop/Blockchain.final/app/src/main/res/layout/information.xml" value="0.4" />
+        <entry key="..\:/Users/nyks.35/Desktop/Java/java/AndroidStudio/MyProjects/Blockchain/app/src/main/res/layout/activity_main.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final.final.final/app/src/main/res/layout/activity_information.xml" value="0.25" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final.final.final/app/src/main/res/layout/information.xml" value="0.5" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final.final/app/src/main/res/layout/activity_information.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final.final/app/src/main/res/layout/information.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.18359375" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/activity_authentication.xml" value="0.25" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/activity_information.xml" value="0.33" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/information.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nyks.35/Desktop/software Engineering/java/java/AndroidStudio/AndroidStudio/MyProjects/Blockchain/Blockchain.final/app/src/main/res/layout/item_ticker_info.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

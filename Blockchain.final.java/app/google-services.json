@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134815345520",
+    "project_id": "blockchain-bffa9",
+    "storage_bucket": "blockchain-bffa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134815345520:android:bd3de0e1617e224bbc3db5",
+        "android_client_info": {
+          "package_name": "com.betelgeuse.blockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134815345520-akmj2vgjis9sgjnfgt0oqp6j9oau2006.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRiBU4ajAaOZuZ1XPu_MdLAGPYefBP4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134815345520-akmj2vgjis9sgjnfgt0oqp6j9oau2006.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
